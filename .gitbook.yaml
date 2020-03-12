@@ -1,4 +1,4 @@
-root: ./
+root: ./docs/
 
 ​structure:  
     readme: README.md  
@@ -6,5 +6,3 @@ root: ./
     
 redirects:  
     previous/page: new-folder/page.md
-    
-root: ./docs/
