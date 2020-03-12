@@ -1,5 +1,5 @@
 # Table of contents
 
-* [DAWEB-6.3](README.md)
+* [Initial page](README.md)
 * [API](api.md)
 
